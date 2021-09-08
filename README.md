@@ -1,3 +1,5 @@
 # AI for an Eye 你是我的眼
 
-A S
+A StanCode SC201 project.
+
+
